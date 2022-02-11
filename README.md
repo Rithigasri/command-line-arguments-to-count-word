@@ -14,7 +14,7 @@ Split the content using split().
 ### Step 4:  
 Open the terminal.
 ### Step 5: 
-Pass python file name which contains code along wuth the file name which contains content as arguemnts in the terminal.
+Pass python file name along with the opened file name as arguements in the terminal.
 ### Step 6: 
 The terminal runs and gives the output.
 ## PROGRAM:
